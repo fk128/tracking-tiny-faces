@@ -1,0 +1,7 @@
+tensorflow-gpu
+opencv-python
+filterpy
+numba
+numpy
+matplotlib
+scipy
